@@ -1,0 +1,18 @@
+/*
+THIRD-section
+*/
+.third-section{
+    text-align: center;
+    padding: 30px;
+    background-color: #e4e4e4e5;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .third-section i{
+    font-size: 250%;
+    color:#1e874b;
+  }
+  .third-section p{
+    font-size: 88%;
+  }
+  
