@@ -38,7 +38,7 @@ const onType = () => {
             loader.setAttribute('class', 'visible');
 
             try {
-                fetch('https://ricardo-brando-api.herokuapp.com', {
+                fetch('https://localhost:3000/', {
                     method: 'post',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({
